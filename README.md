@@ -26,4 +26,3 @@
 
 
 Se gostou do meu conteúdo, contribua com o cafezinho!!
-chave pix - [ Pix para ajudar no cafézinho](11986645920)<br/>
