@@ -7,7 +7,7 @@
 
 
 
-## Tecnologia que eu uso no meu dia a dia!!
+## Tecnologia que eu uso no meu dia-a-dia!!
 
 <div style="display: inline_block"><br/>
 <img align: center; alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,3 +23,7 @@
 - [Aprendendo a fazer banner para github](https://github.com/Fernandass2/Fernandass2)<br/>
 - [Estudando Binário](https://github.com/Fernandass2/BIN-RIO)<br/>
 - [Aprendendo HTML](https://github.com/Fernandass2/AuladeHTML)
+
+
+Se gostou do meu conteúdo, contribua com o cafezinho!!
+chave pix - [ Pix para ajudar no cafézinho](00020126360014BR.GOV.BCB.PIX0114+55119866459205204000053039865802BR5901N6001C62150511Fernandinha6304D9F1)<br/>
