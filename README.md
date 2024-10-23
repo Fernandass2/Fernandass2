@@ -5,7 +5,7 @@
 
 
 
-![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandass2&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandass2&layout=compact)
+![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandass2&show_icons=true&theme=radical)<br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandass2&layout=compact)
 
 
 ## Tecnologia que eu uso no meu dia-a-dia!!
