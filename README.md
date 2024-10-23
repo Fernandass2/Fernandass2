@@ -2,6 +2,7 @@
 ### Olá! Eu sou a Fernanda Batista! 🖐
 
 [![ Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernandass2)[![ Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nandaaaab/)[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-batista-b2b907120/)[![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Fernandass2/AuladeHTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandass2&layout=compact)
 
 
 ![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandass2&show_icons=true&theme=radical)
@@ -20,7 +21,19 @@
 </div><br/>
 
  Apaixonada por Tecnologia, educação e por mudar vida das pessoas atrás da programação!
+<br/>
 
+Eu deixo quase tudo de código aberto e tento responder a todos que precisam de ajuda para usar esses projetos. Obviamente, isso leva tempo. Você pode usar esse serviço de graça.
+
+No entanto, se você estiver usando este projeto e estiver satisfeito com ele ou apenas quiser me encorajar a continuar criando coisas, há algumas maneiras de fazer isso:
+
+Dando os devidos créditos quando você usa github-readme-stats no seu leia-me, vinculando-o de volta. :D
+Estrelando e compartilhando o projeto. 🚀
+Você pode fazer uma doação única via pix. Provavelmente comprarei
+um caféchá. 🍵
+Obrigada! ❤️
+
+<br/>
 ## Últimas Lições do meu Curso!
 - [Aprendendo a fazer banner para github](https://github.com/Fernandass2/Fernandass2)<br/>
 - [Estudando Binário](https://github.com/Fernandass2/BIN-RIO)<br/>
