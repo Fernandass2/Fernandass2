@@ -26,4 +26,4 @@
 
 
 Se gostou do meu conteúdo, contribua com o cafezinho!!
-chave pix - [ Pix para ajudar no cafézinho](00020126360014BR.GOV.BCB.PIX0114+55119866459205204000053039865802BR5901N6001C62150511Fernandinha6304D9F1)<br/>
+chave pix - [ Pix para ajudar no cafézinho](11986645920)<br/>
