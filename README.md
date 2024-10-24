@@ -32,7 +32,8 @@ Dando os devidos créditos quando você usa github-readme-stats no seu leia-me, 
 Estrelando e compartilhando o projeto. 🚀
 Você pode fazer uma doação única via pix. Provavelmente comprarei
 um caféchá. 🍵
-Obrigada! ❤️
+
+
 
 <br/>
 ## Últimas Lições do meu Curso!
@@ -41,4 +42,6 @@ Obrigada! ❤️
 - [Aprendendo HTML](https://github.com/Fernandass2/AuladeHTML)
 
 
-Se gostou do meu conteúdo, contribua com o cafezinho!!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
