@@ -31,7 +31,7 @@ jobs:
 
       # Para as atualizações.
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@Fernandass2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
