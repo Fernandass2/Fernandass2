@@ -19,6 +19,7 @@
 
 
 ![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandass2&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandass2&layout=compact)
+[![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=fernandass2&repo=Phyton&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Fernandass2/Phyton)
 
 
 ## Tecnologia que eu uso no meu dia-a-dia!!
