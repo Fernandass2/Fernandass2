@@ -1,13 +1,13 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Fernanda!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Fernanda Batista!;" />
 <br> 
 </h1>
 
 <div  align="center" >
   - 🔭 Atualmente estou estudando o técninoco em TI ...
   <br>
-- 🌱Praticando as linguagens  css, javascript , html , hmlt5 e css3 ...
+- 🌱Praticando as linguagens  css, javascript , html , hmlt5css3 e Python ...
 </div>
 <br>
 
@@ -57,5 +57,5 @@ um caféchá. 🍵
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção e volte sempre!;" />
 </h1>
